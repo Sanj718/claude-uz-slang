@@ -1,13 +1,13 @@
-# 🇺🇿 Claude UZ slang
-Turn your Claude CLI into a neighborhood homie from Tashkent.
+# 🇺🇿 Claude-Uz-Slang
+> **"Jigar, koding vabshe daxshat ishlovoti!"**
 
-### Install
-`curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/claude-uz-slang/main/install.sh | bash`
+Transform your **Claude Code CLI** into a talented senior developer from the streets of Tashkent. This project adds a custom **Output Style** to Claude that replaces formal robotic speech with authentic Uzbek street slang (*Ko'cha shevasi*).
 
-### Usage
-1. Open Claude Code: `claude`
-2. Turn on slang: `/style uz-slang`
-3. Back to normal: `/style default`
+---
 
-### Uninstall
-`rm ~/.claude/output-styles/index.md`
+## 🚀 Quick Install
+
+Paste this one-liner into your terminal to install the slang engine:
+
+```bash
+curl -sSL [https://raw.githubusercontent.com/Sanj718/claude-uz-slang/main/install.sh](https://raw.githubusercontent.com/Sanj718/claude-uz-slang/main/install.sh) | bash
