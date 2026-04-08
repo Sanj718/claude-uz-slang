@@ -10,4 +10,4 @@ Transform your **Claude Code CLI** into a talented senior developer from the str
 Paste this one-liner into your terminal to install the slang engine:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/Sanj718/claude-uz-slang/main/install.sh](https://raw.githubusercontent.com/Sanj718/claude-uz-slang/main/install.sh) | bash
+curl -sSL https://raw.githubusercontent.com/Sanj718/claude-uz-slang/main/install.sh | bash
