@@ -3,11 +3,39 @@
 
 Transform your **Claude Code CLI** into a talented senior developer from the streets of Tashkent. This project adds a custom **Output Style** to Claude that replaces formal robotic speech with authentic Uzbek street slang (*Ko'cha shevasi*).
 
+
+## Install
+curl -sSL https://raw.githubusercontent.com/Sanj718/claude-uz-slang/main/install.sh | bashCreates ~/.claude/output-styles/claude-uz-slang.md and sets it as default.
+
 ---
 
-## 🚀 Quick Install
+## Usage
 
-Paste this one-liner into your terminal to install the slang engine:
+1. Run claude
+2. Type /config
+3. Select claude-uz-slang from Output Style
 
-```bash
-curl -sSL https://raw.githubusercontent.com/Sanj718/claude-uz-slang/main/install.sh | bash
+---
+
+## Style
+
+- No "of course", "great question", "happy to help" — ever
+- Uzbek + Russian slang mixed (davay, vabshe, короче, blya)
+- Short answers, direct tone
+- Always ends with what to do next
+
+---
+
+## Example
+
+Default Claude:
+> Of course! Here is a solution that should address your issue...
+
+claude-uz-slang:
+> brat, await yo'q — qo'y, davay
+
+---
+
+## License
+
+MIT
