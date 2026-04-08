@@ -13,7 +13,7 @@ curl -sSL -o "$STYLE_DIR/claude-uz-slang.md" https://raw.githubusercontent.com/S
 
 if [ $? -eq 0 ]; then
     echo "✅ G'irt chotki! Installed successfully."
-    echo "🚀 Run 'claude' and type '/style Uz-Street' to start."
+    echo "🚀 Run 'claude' and type '/config' -> Output Style -> claude-uz-slang to start."
 else
     echo "❌ Qovun tushirdik! Installation failed. Check your internet connection."
 fi
